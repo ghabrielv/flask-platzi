@@ -21,6 +21,9 @@
             <ul class="nav navbar-nav">
                 <li><a href="{{ url_for('index') }}">Home</a></li>
                 <li><a href="https://www.google.com" target="_blank">Google</a></li>
+                {% if current_user.is_authenticated %}
+                    <li><a href="{{ url_for('auth.logout') }}">Logout</a></li>
+                {% endif %}
             </ul>
         </div>
     </div>
