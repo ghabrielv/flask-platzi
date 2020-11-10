@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "flask-platzi-112020",
+  "private_key_id": "f7a1387247b50051250d9acd53b75b329a8b3d71",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCRGkNOMGGI90Na\nt0VAxyhx58URVJKBQnWb0t1nW7NuJYGtVEMko9Tf0UxYxm+adKLA1legEVcvc6Gz\nPR9m6TE8MjZUZUuqxi+Yt73nvfF7kbzA6HNAozlyTEW97THBV/XKWx/r8xXdUd3B\n9kYAmfPqCu/io0xZ3Jw2WKCutZmNU4uXprNjoRQw4AXz7CDS3o3csaBXL9K9cpqT\nCibKF4u5qzGdhcdX7S3F5OpOBMJgbZEKALbfu5i7KQ8aMWLPpDZMfHmOG+LeUWkQ\nmri2jBZLnUC3QTwNI4ISwy3ux5kWZh0ws60wch8YsuO8nbEIyV89J/UuFgGIb/VI\nw4+VbnmRAgMBAAECggEABsdAzKbC76iJW3QDRq7nC0cl9BTM0T//CXv0vs7QV31m\nDOhKSKxkld4LoHwIm6EGN1br+fzFY2CV9a8Nx/ttwt+fnRqsSbp/X7V5qBk97iVV\nOXfCZosZdGbuvRwW/m6y+zR9jcKpy1B3OQfdpkqK0+yV3zL8rpf5Liq+utqd5TWn\nZQ8VGX3Zn55JYzuglnEnBE9i0LqFUhzUiIfK75FjgY2w26HkP8oLZ856K9Z9rTmf\ntn3kXJXEFK8t8pXjezDYol5v22+pncqY0R/ksGKdLa/wFodInPdpK8uR4KT3MzQE\nVc4jCVtbR9sh18LD8/Tan+GJiOdqRgIEmQED/8RSAQKBgQDFfrihA+kxUkWNGMJi\nEOOjiwmWcvftEetAgJPQgLIOEno7n04sysJI2RYnutVn4a/EqsaPRm2PNw3wyFha\nqnID2P6cOJDmyqF4Jl1DNXsDJeiD8j5YVBg1IlbYraydmqtUx27urItNonOUbE73\nmvwX4ZY7cbu7Yse76bmA6U7lwQKBgQC8FkxBZ0pAe9tReEg9RIgGq0Mu94xOebiM\nrGC5bckTNfRYLTtrFRuTXfRD3Zeqyw9/2c3WnZm9jV2rEgSs6QE1/Km0NELGcGcu\n8R7+00fhvrgkizMK1e67rOwhZH1KJ6HnJ/bdv10gtw82Ug3xhNAy2fIv77Lv8TQc\nL7ONlSSn0QKBgQCqHUxljVvZWxeDwPb2x7t9TK8Wg7Ng5lVwexBXwfMdQfc90ivh\nU0lkvHFkCX/2+iSPz9Y25aBLg02jwL6yYizReaFe6S6PTa0mNE2TLcbm4ElXFltz\ndARiCFEsVPTh0K+R2DOKrN9VIQBTsbOXfk11OKBSVdYyQ5TuHRXnn4+RQQKBgApR\n/uUn0b8wDJyvyObzt7MF+q29D4nOy/2MB9Kk33+aWknsUXJSuiyf3yNKKWRJuBP/\n03ePNjxcYWNdnbwPHO3lazpkE7XnvQGqYVUCKtOML3Zx3N8fVfYeSuaaKPXErvGM\nE9OfCHEfGkqUvgcejn37z3op4NuhlIZnZ6bBJD3BAoGAX4mAA678GOvkh4BNgOQD\nCsUbvtfwG73f3tDdPtG9cn9wY6iIY4DTs8R/y7EkHGsM9pBXPoqdo0HyO3HZcw5B\nk54Wp8Qpiur8/Lrztho6zTitP497SewiB8pPd0Q1MXhwHCLpdQzsQ+S3KLZlisxG\nuFWH32q+k6A9y3TFqQuY8o4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "flask-platzi-112020@appspot.gserviceaccount.com",
+  "client_id": "106992977170975139465",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/flask-platzi-112020%40appspot.gserviceaccount.com"
+}
